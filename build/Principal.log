@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.16)  22 DEC 2020 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.16)  22 DEC 2020 22:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -749,40 +749,48 @@ Package chemgreek Info: Activating mapping `default' on line 11.
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./build/Principal.toc)
-\tf@toc=\write4
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Chapters/01_OrganismoMo
+dello.tex
 
-(./Chapters/01_OrganismoModello.tex) (./Chapters/02_MutagenesiVitro.tex)
-(./Chapters/03_GeniAmbiente.tex) (./Chapters/04_AnalisiRFLP.tex)pdfTeX warning 
-(ext4): destination with the same identifier (name{page.1}) has been already us
-ed, duplicate ignored
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.21 \end{document}
-                    [1
-
-] (./build/Principal.aux)
+l.24 
+      [1]) (./Chapters/02_MutagenesiVitro.tex [2])
+(./Chapters/03_GeniAmbiente.tex) (./Chapters/04_AnalisiRFLP.tex) [3]
+(./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15896 strings out of 479383
- 278003 string characters out of 5875829
- 632031 words of memory out of 5000000
- 32740 multiletter control sequences out of 15000+600000
- 417897 words of font info for 65 fonts, out of 8000000 for 9000
+ 15918 strings out of 479383
+ 278215 string characters out of 5875829
+ 639031 words of memory out of 5000000
+ 32748 multiletter control sequences out of 15000+600000
+ 421759 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,87p,371b,763s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,11n,87p,371b,763s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/t
-exmf-dist/fonts/type1/public/cm-super/sfbi1728.pfb></usr/share/texmf-dist/fonts
-/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/c
-m-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm109
-5.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sha
-re/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on ./build/Principal.pdf (2 pages, 80678 bytes).
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbi1
+728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist
+/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
+frm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on ./build/Principal.pdf (4 pages, 172948 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
