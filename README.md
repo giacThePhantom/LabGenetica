@@ -10,9 +10,9 @@ Relazione del laboratorio di genetica Unitn 2020-2021
 
 ## Struttura capitolo esperienze
 
-* Sezione 1: descrizione esperimento, ipotesi sui risultati.
+* Sezione 1: breve introduzione con inquadramento della problematica, obiettivo dell’esperimento, procedura generale;
 * Sezione 2: Risultati ottenuti.
-* Sezione 3: Spiegazione differenze risultati attesi e ottenuti.
+* Sezione 3: Spiegazione differenze risultati attesi e ottenuti, interpretazione.
 
 ## Appunti
 
