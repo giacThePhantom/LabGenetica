@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  27 DEC 2020 10:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  27 DEC 2020 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -772,8 +772,8 @@ been already used, duplicate ignored
 l.35 		\subsubsection
                      *{Forma diploide} [1] [2])
 (./Chapters/02_MutagenesiVitro.tex [3]) (./Chapters/03_GeniAmbiente.tex
-[4]) (./Chapters/03_Z_MatingSaggioComplementazione.tex [5] [6] [7]
-<./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.png, id=89, 659.46375pt x
+[4]) (./Chapters/03_Z_MatingSaggioComplementazione.tex [5] [6]
+<./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.png, id=80, 659.46375pt x
  311.1625pt>
 File: ./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.png Graphic file (ty
 pe png)
@@ -781,6 +781,7 @@ pe png)
 Package pdftex.def Info: ./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.p
 ng  used on input line 152.
 (pdftex.def)             Requested size: 263.78082pt x 124.46278pt.
+ [7]
 <./Pics/SelezioneDiploidi/Giorno2-selezione.png, id=91, 685.56125pt x 346.29375
 pt>
 File: ./Pics/SelezioneDiploidi/Giorno2-selezione.png Graphic file (type png)
@@ -796,17 +797,17 @@ File: ./Pics/SelezioneDiploidi/Giorno2-selezione-face-up.png Graphic file (type
 Package pdftex.def Info: ./Pics/SelezioneDiploidi/Giorno2-selezione-face-up.png
   used on input line 166.
 (pdftex.def)             Requested size: 198.7376pt x 103.50916pt.
- [8 <./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.png> <./Pics/Selezion
-eDiploidi/Giorno2-selezione.png> <./Pics/SelezioneDiploidi/Giorno2-selezione-fa
-ce-up.png>])
-(./Chapters/04_AnalisiRFLP.tex [9]) [10] (./build/Principal.aux)
+)
+(./Chapters/04_AnalisiRFLP.tex [8 <./Pics/SelezioneDiploidi/Giorno1-patch-terre
+no-ricco.png> <./Pics/SelezioneDiploidi/Giorno2-selezione.png> <./Pics/Selezion
+eDiploidi/Giorno2-selezione-face-up.png>] [9]) [10] (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  16050 strings out of 479383
  280666 string characters out of 5875829
- 647068 words of memory out of 5000000
+ 648068 words of memory out of 5000000
  32824 multiletter control sequences out of 15000+600000
  422879 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -825,7 +826,7 @@ dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type
 1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
 er/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
 >
-Output written on ./build/Principal.pdf (11 pages, 1775444 bytes).
+Output written on ./build/Principal.pdf (11 pages, 1775321 bytes).
 PDF statistics:
  186 PDF objects out of 1000 (max. 8388607)
  151 compressed objects within 2 object streams
