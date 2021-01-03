@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  3 JAN 2021 23:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  4 JAN 2021 00:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -802,17 +802,16 @@ File: ./Pics/GeniAmbiente/Complete.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./Pics/GeniAmbiente/Complete.jpg  used on input line 7
 7.
 (pdftex.def)             Requested size: 88.89052pt x 89.37231pt.
- [6 <./Pics/GeniAmbiente/CdCl05.jpg> <./Pics/GeniAmbiente/CdCl5.jpg> <./Pics/Ge
-niAmbiente/hA.jpg>]
-<./Pics/GeniAmbiente/lysA.jpg, id=97, 222.23026pt x 231.264pt>
+<./Pics/GeniAmbiente/lysA.jpg, id=83, 222.23026pt x 231.264pt>
 File: ./Pics/GeniAmbiente/lysA.jpg Graphic file (type jpg)
 <use ./Pics/GeniAmbiente/lysA.jpg>
 Package pdftex.def Info: ./Pics/GeniAmbiente/lysA.jpg  used on input line 84.
 (pdftex.def)             Requested size: 88.89052pt x 92.50395pt.
-)
+ [6 <./Pics/GeniAmbiente/CdCl05.jpg> <./Pics/GeniAmbiente/CdCl5.jpg> <./Pics/Ge
+niAmbiente/hA.jpg>])
 (./Chapters/03_Z_MatingSaggioComplementazione.tex [7 <./Pics/GeniAmbiente/Compl
 ete.jpg> <./Pics/GeniAmbiente/lysA.jpg>] [8] [9]
-<./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.png, id=122, 659.46375pt 
+<./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.png, id=124, 659.46375pt 
 x 311.1625pt>
 File: ./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.png Graphic file (ty
 pe png)
@@ -820,14 +819,14 @@ pe png)
 Package pdftex.def Info: ./Pics/SelezioneDiploidi/Giorno1-patch-terreno-ricco.p
 ng  used on input line 152.
 (pdftex.def)             Requested size: 263.78082pt x 124.46278pt.
-<./Pics/SelezioneDiploidi/Giorno2-selezione.png, id=123, 685.56125pt x 346.2937
+<./Pics/SelezioneDiploidi/Giorno2-selezione.png, id=125, 685.56125pt x 346.2937
 5pt>
 File: ./Pics/SelezioneDiploidi/Giorno2-selezione.png Graphic file (type png)
 <use ./Pics/SelezioneDiploidi/Giorno2-selezione.png>
 Package pdftex.def Info: ./Pics/SelezioneDiploidi/Giorno2-selezione.png  used o
 n input line 159.
 (pdftex.def)             Requested size: 205.66995pt x 103.88892pt.
-<./Pics/SelezioneDiploidi/Giorno2-selezione-face-up.png, id=124, 722.7pt x 376.
+<./Pics/SelezioneDiploidi/Giorno2-selezione-face-up.png, id=126, 722.7pt x 376.
 40625pt>
 File: ./Pics/SelezioneDiploidi/Giorno2-selezione-face-up.png Graphic file (type
  png)
@@ -839,7 +838,7 @@ Package pdftex.def Info: ./Pics/SelezioneDiploidi/Giorno2-selezione-face-up.png
 (./Chapters/04_AnalisiRFLP.tex [10 <./Pics/SelezioneDiploidi/Giorno1-patch-terr
 eno-ricco.png> <./Pics/SelezioneDiploidi/Giorno2-selezione.png> <./Pics/Selezio
 neDiploidi/Giorno2-selezione-face-up.png>] [11]
-<./Pics/RFLP/RFLP gruppoD bio1(SYBR Safe).jpg, id=149, 440.847pt x 352.6776pt>
+<./Pics/RFLP/RFLP gruppoD bio1(SYBR Safe).jpg, id=151, 440.847pt x 352.6776pt>
 File: ./Pics/RFLP/RFLP gruppoD bio1(SYBR Safe).jpg Graphic file (type jpg)
 <use ./Pics/RFLP/RFLP gruppoD bio1(SYBR Safe).jpg>
 Package pdftex.def Info: ./Pics/RFLP/RFLP gruppoD bio1(SYBR Safe).jpg  used on 
@@ -851,15 +850,15 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16157 strings out of 479383
- 282823 string characters out of 5875829
- 650601 words of memory out of 5000000
- 32895 multiletter control sequences out of 15000+600000
- 432374 words of font info for 101 fonts, out of 8000000 for 9000
+ 16171 strings out of 479383
+ 283001 string characters out of 5875829
+ 650642 words of memory out of 5000000
+ 32904 multiletter control sequences out of 15000+600000
+ 435752 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,87p,771b,997s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/
-texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/font
+ 84i,16n,87p,771b,1219s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/t
+exmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
@@ -871,14 +870,15 @@ usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf
 -dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
 per/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pf
-b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts
-/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/c
-m-super/sfti1200.pfb>
-Output written on ./build/Principal.pdf (14 pages, 4163882 bytes).
+b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/share/t
+exmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf-dist/fonts
+/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fonts/type1/public/c
+m-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm144
+0.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on ./build/Principal.pdf (14 pages, 4168508 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
+ 248 PDF objects out of 1000 (max. 8388607)
+ 196 compressed objects within 2 object streams
  72 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
