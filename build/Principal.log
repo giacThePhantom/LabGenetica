@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  28 DEC 2020 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  3 JAN 2021 23:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -776,9 +776,10 @@ l.35 		\subsubsection
 File: ./Pics/MutVitro/Contebatteriche.png Graphic file (type png)
 <use ./Pics/MutVitro/Contebatteriche.png>
 Package pdftex.def Info: ./Pics/MutVitro/Contebatteriche.png  used on input lin
-e 41.
+e 38.
 (pdftex.def)             Requested size: 379.00928pt x 263.37933pt.
- [4 <./Pics/MutVitro/Contebatteriche.png>]) (./Chapters/03_GeniAmbiente.tex [5]
+) (./Chapters/03_GeniAmbiente.tex
+[4 <./Pics/MutVitro/Contebatteriche.png>] [5]
 <./Pics/GeniAmbiente/CdCl05.jpg, id=78, 228.25275pt x 221.628pt>
 File: ./Pics/GeniAmbiente/CdCl05.jpg Graphic file (type jpg)
 <use ./Pics/GeniAmbiente/CdCl05.jpg>
@@ -852,7 +853,7 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 Here is how much of TeX's memory you used:
  16157 strings out of 479383
  282823 string characters out of 5875829
- 650595 words of memory out of 5000000
+ 650601 words of memory out of 5000000
  32895 multiletter control sequences out of 15000+600000
  432374 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -873,7 +874,7 @@ per/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pf
 b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts
 /type1/public/cm-super/sfti1200.pfb>
-Output written on ./build/Principal.pdf (14 pages, 4155577 bytes).
+Output written on ./build/Principal.pdf (14 pages, 4155494 bytes).
 PDF statistics:
  236 PDF objects out of 1000 (max. 8388607)
  187 compressed objects within 2 object streams
