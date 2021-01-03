@@ -17,7 +17,7 @@ Relazione del laboratorio di genetica Unitn 2020-2021
 ## Appunti
 
 ### Mutagenesi in vitro: effetto di MnCl_2 sulla processivita' e fedelta' della replicazione del DNA (PCR) e trasformazione di cellule di lievito
-* Separare immagini delle colonie.
+* Separare immagini delle colonie ?????
 * Aggiungere parte di osservazione della PCR.
 
 ### Interazione geni-ambiente: effetto dell'esposizione a CdCl_2 e MMS di mutanti al sistema di riparazione dei malappaiamenti "Mismatch Repair"
@@ -25,3 +25,5 @@ Relazione del laboratorio di genetica Unitn 2020-2021
 ### Mating e saggio di complementazione
 
 ### Analisi RFLP di polimorfismi a singolo nucleotide (SNP) attraverso amplificazione di DNA genomico, digestione enzimatica ed elettroforesi
+* Trasformare tutto al presente.
+* Riferirsi tutte le volte che si parla di un aplotipo con la sigla
